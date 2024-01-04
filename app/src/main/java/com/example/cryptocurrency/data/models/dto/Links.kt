@@ -1,4 +1,4 @@
-package com.example.cryptocurrency.data.remote.dto
+package com.example.cryptocurrency.data.models.dto
 
 import com.google.gson.annotations.SerializedName
 

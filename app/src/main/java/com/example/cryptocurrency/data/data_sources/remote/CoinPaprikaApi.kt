@@ -1,6 +1,6 @@
-package com.example.cryptocurrency.data.remote
-import com.example.cryptocurrency.data.remote.dto.CoinDetailDto
-import com.example.cryptocurrency.data.remote.dto.CoinDto
+package com.example.cryptocurrency.data.data_sources.remote
+import com.example.cryptocurrency.data.models.dto.CoinDetailDto
+import com.example.cryptocurrency.data.models.dto.CoinDto
 import retrofit2.http.GET
 import retrofit2.http.Path
 
